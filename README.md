@@ -27,8 +27,7 @@ Basic version, multiple improvements incoming.
 </pre>
 
 ## Diagram
-
-![Vet Clinic UML](/images/uml_diagram.png)
+<img src="assets/VetClininc.png" alt="UML Diagram" width="600"/>
 
 ## Features
 
