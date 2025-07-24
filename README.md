@@ -26,6 +26,10 @@ Basic version, multiple improvements incoming.
 │   └── vetclinic.py          # Core clinic logic and business rules
 </pre>
 
+## Diagram
+
+![Vet Clinic UML](/images/uml_diagram.png)
+
 ## Features
 
 - Object-oriented class design with inheritance and encapsulation
