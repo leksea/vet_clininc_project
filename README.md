@@ -27,7 +27,7 @@ Basic version, multiple improvements incoming.
 </pre>
 
 ## Diagram
-<img src="assets/VetClininc.png" alt="UML Diagram" width="600"/>
+<img src="images/VetClininc.png" alt="UML Diagram" width="600"/>
 
 ## Features
 
